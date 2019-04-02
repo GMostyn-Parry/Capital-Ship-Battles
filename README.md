@@ -9,7 +9,7 @@ The user can choose from a selection of three turrets to place on their ship.\
 The battle can be networked between at most two people.\
 Networking and rendering are performed on their own thread.\
 Battle mode has a zoom function; it will keep the mouse cursor over the same global co-ordinate when zooming out, and keep the point zoomed in on in-view, as long as it does not cause the view to leave the view boundaries of the battle; represented by a white ring when fully zoomed out.
-#Demonstration Video
+# Demonstration Video
 https://youtu.be/CV7uR4MWoqg
 
 # USAGE
